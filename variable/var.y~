@@ -1,0 +1,39 @@
+%{
+#include<stdio.h>
+%}
+%token ID BUILTIN SC NL COMMA
+
+%left '+' '-'
+%left '*' '/' '%'
+%left '(' ')'
+
+%%
+start: V
+| S
+;
+
+V : BUILTIN varlist SC NL {printf("Valid\n\n");}
+| varlist:varlist COMMA ID | ID
+;
+
+S: ID'='E  SC{
+       printf("Valid\n\n");
+       return 0;
+     }
+E:E'+'E 
+ |E'-'E 
+ |E'*'E 
+ |E'/'E 
+ |E'%'E 
+ |'('E')' 
+ | ID
+;
+
+%%
+
+void yyerror(const char *str){printf("error\n\n");}
+
+main()
+{
+	yyparse();
+}

@@ -1,0 +1,2 @@
+#define WORD 257
+#define CONJUNCTION 258

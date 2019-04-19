@@ -1,0 +1,10 @@
+#include<stdio.h>
+/*basic c program*/
+int main()
+{
+	int i=0;
+	char a;
+	i = i + 1;
+	/*print on console*/ printf("Hello World\n"); 
+	return 0;
+}
