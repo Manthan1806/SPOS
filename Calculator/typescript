@@ -1,0 +1,1039 @@
+Script started on 2019-04-05 16:12:16+05:30 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="211" LINES="53"]
+]0;manthan@manthan: ~/DLL/Calculator[01;32mmanthan@manthan[00m:[01;34m~/DLL/Calculator[00m$ /[K./scri[t[K[K[Kipt
+[H[2J[3JCurrent LD_LIBRARY_PATH=/home/manthan/DLL/Calculator
+Enter two numbers : 
+^Z
+[1]+  Stopped                 ./script
+]0;manthan@manthan: ~/DLL/Calculator[01;32mmanthan@manthan[00m:[01;34m~/DLL/Calculator[00m$ ./script[K[K[K[K[K[K[K[Kwhich ksh
+/usr/bin/ksh
+]0;manthan@manthan: ~/DLL/Calculator[01;32mmanthan@manthan[00m:[01;34m~/DLL/Calculator[00m$ ./script[K[K[Kgedit script
+]0;manthan@manthan: ~/DLL/Calculator[01;32mmanthan@manthan[00m:[01;34m~/DLL/Calculator[00m$ gedit script[3Pwhich ksh[1P./script
+[H[2J[3JCurrent LD_LIBRARY_PATH=/home/manthan/DLL/Calculator
+Enter two numbers : 
+^Z
+[2]+  Stopped                 ./script
+]0;manthan@manthan: ~/DLL/Calculator[01;32mmanthan@manthan[00m:[01;34m~/DLL/Calculator[00m$ ./script
+[H[2J[3JCurrent LD_LIBRARY_PATH=/home/manthan/DLL/Calculator
+]0;manthan@manthan: ~/DLL/Calculator[01;32mmanthan@manthan[00m:[01;34m~/DLL/Calculator[00m$ ./run
+Enter two numbers : 
+1
+2
+Select operation : 
+1.ADD
+2.SUB
+3.MUL
+4.DIV
+4
+dlTest 3-Open Library with absolute path return-(null)- 
+dlTest 4-Find symbol div return-(null)- 
+Division is 0.500000
+dlTest 5-div return-(null)- 
+dlTest 6-Close handle return-(null)-
+]0;manthan@manthan: ~/DLL/Calculator[01;32mmanthan@manthan[00m:[01;34m~/DLL/Calculator[00m$ history
+ 1005  make erase_flash
+ 1006  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1007  make monitor
+ 1008  sudo chmod 777 /dev/ttyUSB0
+ 1009  make monitor
+ 1010  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1011  make monitor
+ 1012  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1013  sudo chmod 777 /dev/ttyUSB0
+ 1014  sudo chmod 777 /dev/ttyUSB2
+ 1015  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1016  sudo chmod 777 /dev/ttyUSB0
+ 1017  sudo chmod 777 /dev/ttyUSB2
+ 1018  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1019  sudo chmod 777 /dev/ttyUSB2
+ 1020  make monitor
+ 1021  sudo chmod 777 /dev/ttyUSB2
+ 1022  make monitor
+ 1023  cd
+ 1024  cd Bucky/
+ 1025  git status
+ 1026  git diff
+ 1027  git status
+ 1028  git add main/app_driver.c main/app_priv.h main/distance.c main/pcnt.c 
+ 1029  git status
+ 1030  git commit -a
+ 1031  git status
+ 1032  git push origin devKitC
+ 1033  cd
+ 1034  gcc try.c
+ 1035  ./a.out
+ 1036  gcc try.c
+ 1037  ./a.out
+ 1038  gcc try.c
+ 1039  ./a.out
+ 1040  gcc try.c
+ 1041  ./a.out
+ 1042  gcc try.c
+ 1043  ./a.out
+ 1044  cd
+ 1045  cd esp/esp-avs-sdk/examples/example/
+ 1046  sudo chmod 777 /dev/ttyUSB1
+ 1047  ls /dev/tty*
+ 1048  make menuconfig
+ 1049  sudo chmod 777 /dev/ttyUSB0
+ 1050  make erase_flash
+ 1051  make flash -j 8 VOICE_ASSISTANT=dialogflow monitor
+ 1052  make flash -j 8 VOICE_ASSISTANT=alexa monitor
+ 1053  make flash -j 8 VOICE_ASSISTANT=dialogflow monitor
+ 1054  cd ..
+ 1055  cd lyrat
+ 1056  ls
+ 1057  ls main/
+ 1058  make erase_flash
+ 1059  ls /dev/tty*
+ 1060  make menuconfig
+ 1061  sudo chmod 777 /dev/ttyUSB0
+ 1062  make erase_flash
+ 1063  make flash -j 8 VOICE_ASSISTANT=dialogflow monitor
+ 1064  make flash -j 8 VOICE_ASSISTANT=alexa monitor
+ 1065  make flash -j 8 VOICE_ASSISTANT=dialogflow monitor
+ 1066  make erase_flash
+ 1067  make flash -j8 VOICE_ASSISTANT=dialogflow monitor
+ 1068  make monitor
+ 1069  make erase_flash
+ 1070  make flash -j8 VOICE_ASSISTANT=dialogflow monitor
+ 1071  make erase_flash
+ 1072  make flash -j8 VOICE_ASSISTANT=dialogflow monitor
+ 1073  make erase_flash
+ 1074  make
+ 1075  make flash
+ 1076  make flash -j8 VOICE_ASSISTANT=dialogflow
+ 1077  make monitor
+ 1078  make flash -j8 VOICE_ASSISTANT=dialogflow monitor
+ 1079  ls /dev/tty*
+ 1080  make menuconfig
+ 1081  sudo chmod 777 /dev/ttyUSB1
+ 1082  make erase_flash
+ 1083  make flash -j 8 VOICE_ASSISTANT=dialogflow monitor
+ 1084  make flash -j 8 VOICE_ASSISTANT=alexa monitor
+ 1085  make flash -j 8 VOICE_ASSISTANT=dialogflow monitor
+ 1086  make erase_flash
+ 1087  make flash -j8 VOICE_ASSISTANT=dialogflow monitor
+ 1088  make erase_flash
+ 1089  make flash -j8 VOICE_ASSISTANT=dialogflow monitor
+ 1090  make erase_flash
+ 1091  make flash -j 8 VOICE_ASSISTANT=dialogflow monitor
+ 1092  make erase_flash
+ 1093  make flash -j 8 VOICE_ASSISTANT=dialogflow monitor
+ 1094  make erase_flash
+ 1095  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1096  history
+ 1097  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1098  make erase_flash
+ 1099  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1100  history
+ 1101  sudo chmod 777 /dev/ttyUSB1
+ 1102  make erase_flash
+ 1103  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1104  make -j 8 flash VOICE_ASSISTANT=alexa monitor
+ 1105  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1106  make erase_flash
+ 1107  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1108  make -j 8 flash VOICE_ASSISTANT=alexa monitor
+ 1109  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1110  history
+ 1111  ls
+ 1112  rm -rf build/
+ 1113  make VOICE_ASSISTANT=dialogflow 
+ 1114  make VOICE_ASSISTANT=dialogflow -j8
+ 1115  make flash
+ 1116  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1117  make monitor
+ 1118  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1119  make  monitor
+ 1120  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1121  make menuconfig
+ 1122  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1123  make menuconfig
+ 1124  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1125  make monitor
+ 1126  ls /dev/tty*
+ 1127  make menuconfig
+ 1128  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1129  sudo chmod 777 /dev/ttyUSB1
+ 1130  sudo chmod 777 /dev/ttyUSB2
+ 1131  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1132  sudo chmod 777 /dev/ttyUSB2
+ 1133  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1134  sudo chmod 777 /dev/ttyUSB2
+ 1135  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1136  sudo chmod 777 /dev/ttyUSB2
+ 1137  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1138  sudo chmod 777 /dev/ttyUSB2
+ 1139  ls /dev/tty*
+ 1140  sudo chmod 777 /dev/ttyUSB2
+ 1141  make monitor
+ 1142  sudo chmod 777 /dev/ttyUSB2
+ 1143  make monitor
+ 1144  sudo chmod 777 /dev/ttyUSB2
+ 1145  make monitor
+ 1146  sudo chmod 777 /dev/ttyUSB2
+ 1147  make monitor
+ 1148  ls /dev/tty*
+ 1149  make menuconfig
+ 1150  make monitor
+ 1151  make menuconfig
+ 1152  sudo chmod 777 /dev/ttyUSB2
+ 1153  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1154  make monitor
+ 1155  sudo chmod 777 /dev/ttyUSB2
+ 1156  make monitor
+ 1157  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1158  sudo chmod 777 /dev/ttyUSB2
+ 1159  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1160  sudo chmod 777 /dev/ttyUSB2
+ 1161  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1162  make monitor
+ 1163  sudo chmod 777 /dev/ttyUSB2
+ 1164  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1165  sudo chmod 777 /dev/ttyUSB2
+ 1166  make monitor
+ 1167  sudo chmod 777 /dev/ttyUSB2
+ 1168  make monitor
+ 1169  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1170  cd
+ 1171  cd /home/manthan/.config/google-oauthlib-tool/
+ 1172  ls
+ 1173  subl credentials.json 
+ 1174  cd Bucky
+ 1175  git pull
+ 1176  subl main/*
+ 1177  make flash
+ 1178  ls /dev/tty*
+ 1179  sudo chmod 777 /dev/ttyUSB2
+ 1180  sudo chmod 777 /dev/ttyUSB0
+ 1181  cd 
+ 1182  cd esp/Bucky/
+ 1183  make flash
+ 1184  cd ..
+ 1185  cd esp-avs-sdk/examples/Bucky/
+ 1186  make flash
+ 1187  cd 
+ 1188  cd esp/Bucky/
+ 1189  rm -rf /build
+ 1190  make flash
+ 1191  cd ..
+ 1192  cd esp-bootstrap/2outlet/
+ 1193  ls
+ 1194  make flash
+ 1195  make monitor
+ 1196  make flash
+ 1197  sudo chmod 777 /dev/ttyUSB0
+ 1198  make monitor
+ 1199  make erase_flash
+ 1200  make flash
+ 1201  make monitor
+ 1202  exit
+ 1203  cd
+ 1204  ls /dev/tty*
+ 1205  make menuconfig
+ 1206  cd esp/esp-avs-sdk/examples/lyrat
+ 1207  sudo chmod 777 /dev/ttyUSB1
+ 1208  make monitor
+ 1209  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1210  ls /dev/tty*
+ 1211  make menuconfig
+ 1212  make monitor
+ 1213  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1214  make -j 8 flash VOICE_ASSISTANT=alexa monitor
+ 1215  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1216  rm -rf /build
+ 1217  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1218  make erase_flash
+ 1219  rm -rf /build
+ 1220  ls
+ 1221  rm -rf /build
+ 1222  ls
+ 1223  history
+ 1224  rm -rf build/
+ 1225  ls
+ 1226  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1227  make monitor
+ 1228  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1229  make monitor
+ 1230  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1231  sudo chmod 777 /dev/ttyUSB1
+ 1232  ls /dev/tty*
+ 1233  make menuconfig
+ 1234  make monitor
+ 1235  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1236  make -j 8 flash VOICE_ASSISTANT=alexa monitor
+ 1237  subl main/*
+ 1238  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1239  sudo chmod 777 /dev/ttyUSB1
+ 1240  sudo chmod 777 /dev/ttyUSB0
+ 1241  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1242  rm -rf build/
+ 1243  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1244  make monitor
+ 1245  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1246  sudo chmod 777 /dev/ttyUSB0
+ 1247  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1248  make monitor
+ 1249  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1250  make monitor
+ 1251  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1252  ls /dev/tty*
+ 1253  make menuconfig
+ 1254  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1255  sudo chmod 777 /dev/ttyUSB1
+ 1256  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1257  make monitor
+ 1258  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1259  exit
+ 1260  cd
+ 1261  cd /home/manthan/.config/google-oauthlib-tool/
+ 1262  ls
+ 1263  subl credentials.json 
+ 1264  exit
+ 1265  cd
+ 1266  cd apache/apache-tomcat-8.5.24/apache-tomcat-8.5.24/bin/
+ 1267  ./startup.sh 
+ 1268  cd ..
+ 1269  cd webapps/ROOT/
+ 1270  ls
+ 1271  cd Pizza_Order/
+ 1272  ls
+ 1273  cd food/
+ 1274  ls
+ 1275  subl *
+ 1276  python3
+ 1277  python
+ 1278  exit
+ 1279  cd python/
+ 1280  python3 svm.py
+ 1281  pip3 install matplotlib
+ 1282  pip3 install torch torchvision
+ 1283  pip3 list
+ 1284  python3 svm.py
+ 1285  python3
+ 1286  pip3 install IPython
+ 1287  pip3 list
+ 1288  pip3 install utils
+ 1289  pip3 list
+ 1290  mkdir VGAN
+ 1291  ls
+ 1292  cd VGAN/
+ 1293  touch utils.py
+ 1294  subl utils.py 
+ 1295  cd ..
+ 1296  python3 tensorflow_first.py 
+ 1297  python3 dcgan_mnist.py 
+ 1298  exit
+ 1299  mkdir django
+ 1300  cd django/
+ 1301  git clone https://github.com/Sumedh-Patkar/MusicStore
+ 1302  cd ..
+ 1303  mkdir flask
+ 1304  cd ~/Downloads/
+ 1305  ls
+ 1306  chmod +x final.bin 
+ 1307  ./final.bin -h
+ 1308  cd /tmp/
+ 1309  l;s
+ 1310  ls
+ 1311  mkdir test
+ 1312  clear
+ 1313  virtualenv .
+ 1314  sudo su
+ 1315  ls
+ 1316  cat pagekite.rc 
+ 1317  cat pagekite.py 
+ 1318  ls
+ 1319  subl *
+ 1320  cd
+ 1321  cd C
+ 1322  gcc clock.c 
+ 1323  ./a.out
+ 1324  cd
+ 1325  cd esp/esp-avs-sdk/examples/lyrat
+ 1326  ls /dev/tty
+ 1327  ls /dev/tty*
+ 1328  make menuconfig
+ 1329  sudo chmod 777 /dev/ttyUSB0
+ 1330  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1331  make menuconfig
+ 1332  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1333  make
+ 1334  sudo chmod 777 /dev/ttyUSB0
+ 1335  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1336  sudo chmod 777 /dev/ttyUSB0
+ 1337  make menuconfig
+ 1338  ls /dev/tty*
+ 1339  make menuconfig
+ 1340  sudo chmod 777 /dev/ttyUSB1
+ 1341  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1342  ls /dev/tty*
+ 1343  sudo chmod 777 /dev/ttyUSB1
+ 1344  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1345  ls /dev/tty*
+ 1346  cd /mnt/
+ 1347  ls
+ 1348  cd /tmp/
+ 1349  ls
+ 1350  less term.js 
+ 1351  cd Final/
+ 1352  ls
+ 1353  cd terminado/
+ 1354  ls
+ 1355  cd demos/
+ 1356  ls
+ 1357  python2 final.py -m bash
+ 1358  . /tmp/bin/activate
+ 1359  python2 final.py -m bash
+ 1360  pkill python
+ 1361  python2 final.py -m bash
+ 1362  LS
+ 1363  ls
+ 1364  cd Final/terminado/demos/
+ 1365  ls
+ 1366  ./final.bin -m bash
+ 1367  pkill python
+ 1368  ./final.bin -f -qr
+ 1369  pkill python
+ 1370  mysql -u root -p
+ 1371  su
+ 1372  history
+ 1373  pkill python
+ 1374  sudo pkill python
+ 1375  sudo service sshd restart
+ 1376  sudo pkill python
+ 1377  python2 /tmp/pagekite.py 
+ 1378  python2 --optfile=/tmp/pagekite.rc /tmp/pagekite.py 
+ 1379  python2 --optfile=/tmp/pagekite.rc /tmp/pagekite.py -h
+ 1380  python2 /tmp/pagekite.py --optfile=/tmp/pagekite.rc 
+ 1381  sudo su
+ 1382  ls
+ 1383  python2 final.py -m top
+ 1384  . /tmp/bin/activate
+ 1385  python2 final.py -m top
+ 1386  pkill python
+ 1387  python2 final.py -h
+ 1388  python2 final.py -sp top
+ 1389  clear
+ 1390  ls
+ 1391  python2 final.py -h
+ 1392  python2 final.py --port 8000 -qr 
+ 1393  python2 final.py -qr --port 8000 
+ 1394  python2 final.py  --port 8000 
+ 1395  python2 final.py --port 8000 
+ 1396  python2 final.py --port 8000 -qr
+ 1397  ps aux | grep python
+ 1398  pkill python
+ 1399  python2 final.py --port 8000 -qr
+ 1400  python2 final.py -m bash -qr -u choot -p choot
+ 1401  subl .
+ 1402  celar
+ 1403  clear
+ 1404  python2 final.py -m bash -qr -u choot -p choot
+ 1405  clear
+ 1406  python2 final.py -m bash -qr -u choot -p choot
+ 1407  pkill python
+ 1408  python2 final.py -m bash -qr -u choot -p choot
+ 1409  pkill python
+ 1410  python2 final.py -f -qr -u choot -p choot
+ 1411  pkill python
+ 1412  python2 final.py -m -qr -u choot -p choot
+ 1413  python2 final.py -h
+ 1414  python2 final.py -sp -qr -u choot -p choot
+ 1415  python2 final.py -m top -qr -u choot -p choot
+ 1416  pkill python
+ 1417  python2 final.py -m -qr -u choot -p choot top
+ 1418  pkill python
+ 1419  python2 final.py -m -qr -u choot -p choot top
+ 1420  pkill python
+ 1421  python2 final.py -f -qr -u choot -p choot
+ 1422  python2 final.py
+ 1423  python2 final.py --help
+ 1424  python2 final.py --port 8001 -qr 
+ 1425  python2 final.py --port -qr 8001
+ 1426  python2 final.py --port 8001 -qr
+ 1427  python2 final.py -qr --port 8001 
+ 1428  pkill python
+ 1429  ls
+ 1430  rm requirements.txt 
+ 1431  python -m nuitka --follow-imports --include-plugin-directory-. --show-progress --show-scons final.py 
+ 1432  python -m nuitka --follow-imports --include-plugin-directory=. --show-progress --show-scons final.py 
+ 1433  ls
+ 1434  mv final.bin webtty
+ 1435  ./webtty 
+ 1436  python -m nuitka --follow-imports --include-plugin-directory=. --show-progress --show-scons final.py 
+ 1437  mv final.bin webtty
+ 1438  ./webtty 
+ 1439  ./webtty -f -u root -p root
+ 1440  ./webtty -m top
+ 1441  pkill python
+ 1442  clear
+ 1443  ls
+ 1444  cp webtty ~/Desktop/
+ 1445  cd ~/Desktop/
+ 1446  ls
+ 1447  ./webtty 
+ 1448  ./webtty -f 
+ 1449  cd /tmp/Final/
+ 1450  ls
+ 1451  cd terminado/
+ 1452  ls
+ 1453  cd demos/
+ 1454  ls
+ 1455  rm webtty 
+ 1456  clear
+ 1457  ls
+ 1458  cd ..
+ 1459  ls
+ 1460  cd terminado/
+ 1461  ls
+ 1462  cd ..
+ 1463  ls
+ 1464  cd demos/
+ 1465  ls
+ 1466  python2 final.py -m top 
+ 1467  pkill python
+ 1468  python2 final.py -m top 
+ 1469  clear
+ 1470  ssh -J serveo.net dhaval@dhaval
+ 1471  cd ~/
+ 1472  cd esp/esp-avs-sdk/examples/lyrat
+ 1473  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1474  sudo chmod 777 /dev/ttyUSB1
+ 1475  ls /dev/tty*
+ 1476  make menuconfig
+ 1477  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1478  sudo chmod 777 /dev/ttyUSB0
+ 1479  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1480  cd JAVA/
+ 1481  javac Permutations.java 
+ 1482  java Permutations
+ 1483  javac Permutations.java 
+ 1484  java Permutations
+ 1485  javac Permutations.java 
+ 1486  java Permutations
+ 1487  javac LongestPalindrome.java 
+ 1488  java LongestPalindrome 
+ 1489  javac LongestPalindrome.java 
+ 1490  java LongestPalindrome 
+ 1491  javac LongestPalindrome.java 
+ 1492  java LongestPalindrome 
+ 1493  javac Immutable.java 
+ 1494  java Immutable 
+ 1495  javac Immutable.java 
+ 1496  java Immutable 
+ 1497  javac Immutable.java 
+ 1498  java Immutable 
+ 1499  clear
+ 1500  cd
+ 1501  python3
+ 1502  exit
+ 1503  cd
+ 1504  ngrok http localhost:5000
+ 1505  cd python/flask/movie_bot/
+ 1506  ngrok http localhost:5000
+ 1507  cd
+ 1508  cd ngrok-stable-linux-amd64/
+ 1509  ./ngrok authtoken 4Dfm4japCfmRTY2jqNe7h_7aWz1fpTWBn8DBiSAqzMJ
+ 1510  cd
+ 1511  ./ngrok authtoken 4Dfm4japCfmRTY2jqNe7h_7aWz1fpTWBn8DBiSAqzMJ
+ 1512  ngrok http localhost:5000
+ 1513  cd ngrok-stable-linux-amd64/
+ 1514  ngrok http localhost:5000
+ 1515  cd
+ 1516  cd python/flask/movie_bot/
+ 1517  ngrok http localhost:5000
+ 1518  cd
+ 1519  cd ngrok-stable-linux-amd64/ls
+ 1520  cd ngrok-stable-linux-amd64/
+ 1521  ls
+ 1522  ./ngrok help
+ 1523  ./ngrok
+ 1524  ./ngrok http localhost:5000
+ 1525  cd ..
+ 1526  cd flask/
+ 1527  mkdir -p movie_bot && cd movie_bot && mkdir templates static
+ 1528  touch index.py static/{custom.js,style.css} templates/index.html requirements.txt .flaskenv .env
+ 1529  ls
+ 1530  subl requirements.txt 
+ 1531  python3 -m venv env
+ 1532  source env/bin/activate
+ 1533  ls
+ 1534  pip3 install -r requirements.txt 
+ 1535  python3 --version
+ 1536  flask run
+ 1537  cd python/
+ 1538  ls
+ 1539  cd VGAN/
+ 1540  ls
+ 1541  python3 vgan.py 
+ 1542  pip3 list
+ 1543  pip3 install tensorboardX
+ 1544  python3 vgan.py 
+ 1545  cd ..
+ 1546  cd keras/
+ 1547  python3 mnist_gan.py 
+ 1548  pip3 install tqdm
+ 1549  python3 mnist_gan.py 
+ 1550  clear
+ 1551  su
+ 1552  exirt
+ 1553  exit
+ 1554  sudo apt update
+ 1555  sudo apt upgrade
+ 1556  sudo apt install ca-certificates apt-transport-https 
+ 1557  wget -q https://packages.sury.org/php/apt.gpg -O- | sudo apt-key add -
+ 1558  sudo echo "deb https://packages.sury.org/php/ buster main" | tee /etc/apt/sources.list.d/php.list
+ 1559  sudo apt update
+ 1560  sudo apt install php7.3
+ 1561  sudo apt install php7.3-cli php7.3-common php7.3-curl php7.3-gd php7.3-json php7.3-mbstring php7.3-mysql php7.3-xml
+ 1562  php -v
+ 1563  mysql -u t3261 -p
+ 1564  exit
+ 1565  cd
+ 1566  sudo apt-get install ksh
+ 1567  which ksh
+ 1568  cd DLL/
+ 1569  ./script.sh
+ 1570  su
+ 1571  ./script
+ 1572  ls
+ 1573  ./script.sh
+ 1574  which ksh
+ 1575  ./script.sh
+ 1576  su
+ 1577  ./script
+ 1578  ./script.sh
+ 1579  ./script
+ 1580  su
+ 1581  exit
+ 1582  cd
+ 1583  ls
+ 1584  cat try.c
+ 1585  gcc -o try try.c
+ 1586  ./try
+ 1587  exit
+ 1588  cd
+ 1589  cd DLL/
+ 1590  ./script
+ 1591  ./dlTest 
+ 1592  ./script
+ 1593  ./dlTest 
+ 1594  ./script
+ 1595  ./dlTest 
+ 1596  ./script
+ 1597  ./dlTest 
+ 1598  ./script
+ 1599  ./script.sh
+ 1600  su
+ 1601  ./script.sh
+ 1602  ./script
+ 1603  ./script.sh
+ 1604  ./script
+ 1605  cd Calculator/
+ 1606  su
+ 1607  ./script 
+ 1608  cd ..
+ 1609  ./script 
+ 1610  cd Calculator/
+ 1611  ls
+ 1612  ./run
+ 1613  ./script 
+ 1614  ksh
+ 1615  if config
+ 1616  cd
+ 1617  cd DLL
+ 1618  cd Calculator/
+ 1619  ./run 
+ 1620  cd
+ 1621  ls
+ 1622  gcc try.v
+ 1623  gcc try.c
+ 1624  ldd a.out
+ 1625  ldd try
+ 1626  cat try
+ 1627  cat try.c
+ 1628  ldd try
+ 1629  cd python/
+ 1630  ls
+ 1631  git clone https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+ 1632  ls
+ 1633  cd pytorch-CycleGAN-and-pix2pix/
+ 1634  ls
+ 1635  pip3 install -r requirements.txt 
+ 1636  bash ./scripts/download_cyclegan_model.sh horse2zebra
+ 1637  bash ./datasets/download_cyclegan_dataset.sh horse2zebra
+ 1638  python test.py --dataroot datasets/horse2zebra/testA --name horse2zebra_pretrained --model test --no_dropout
+ 1639  pip3 install abc
+ 1640  bash ./datasets/download_cyclegan_dataset.sh maps
+ 1641  python test.py --dataroot datasets/horse2zebra/testA --name horse2zebra_pretrained --model test --no_dropout
+ 1642  pip3 install dominate
+ 1643  python3 test.py --dataroot datasets/horse2zebra/testA --name horse2zebra_pretrained --model test --no_dropout
+ 1644  python test.py --dataroot ./datasets/facades/ --direction BtoA --model pix2pix --name facades_label2photo_pretrained
+ 1645  python3 test.py --dataroot ./datasets/facades/ --direction BtoA --model pix2pix --name facades_label2photo_pretrained
+ 1646  python3 test.py --dataroot datasets/horse2zebra/testA --name horse2zebra_pretrained --model test --no_dropout
+ 1647  python3 test.py --dataroot ./datasets/maps --name maps_cyclegan --model cycle_gan
+ 1648  python3 test.py --dataroot datasets/horse2zebra/testA --name horse2zebra_pretrained --model test --no_dropout
+ 1649  bash ./scripts/download_cyclegan_model.sh horse2zebra
+ 1650  history
+ 1651  python3 -m venv env
+ 1652  source env/bin/activate
+ 1653  python3 test.py --dataroot datasets/horse2zebra/testA --name horse2zebra_pretrained --model test --no_dropout
+ 1654  pip
+ 1655  python
+ 1656  pip install -r requirements.txt 
+ 1657  python test.py --dataroot datasets/horse2zebra/testA --name horse2zebra_pretrained --model test --no_dropout
+ 1658  python test.py --dataroot datasets/horse2zebra/testA --name horse2zebra_pretrained --model test --no_dropout gpu_ids -1
+ 1659  python test.py --dataroot datasets/horse2zebra/testA --name horse2zebra_pretrained --model test --no_dropout --gpu_ids -1
+ 1660  cd ..
+ 1661  exit
+ 1662  cd
+ 1663  cd esp/
+ 1664  ls
+ 1665  cd esp-avs-sdk/examples/lyrat
+ 1666  ls
+ 1667  ls /dev/tty*
+ 1668  make menuconfig
+ 1669  sudo chmod 777 /dev/ttyUSB0
+ 1670  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1671  sudo chmod 777 /dev/ttyUSB0
+ 1672  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1673  sudo chmod 777 /dev/ttyUSB0
+ 1674  make -j 8 flash VOICE_ASSISTANT=dialogflow monitor
+ 1675  exit
+ 1676  cd ..
+ 1677  if config; ;
+ 1678  git clone https://github.com/hanzhanggit/StackGAN
+ 1679  cd StackGAN/
+ 1680  pip install prettytensor
+ 1681  pip install progressbar
+ 1682  pip install easydict
+ 1683  pip install torchfile
+ 1684  pip install pandas
+ 1685  pip list
+ 1686  python misc/preprocess_birds.py 
+ 1687  python
+ 1688  python misc/preprocess_birds.py 
+ 1689  python
+ 1690  python -m venv env
+ 1691  pip install virtualenv
+ 1692  python -m virtualenv env
+ 1693  source env/bin/activate
+ 1694  python
+ 1695  sh demo/birds_demo.sh
+ 1696  pip install prettytensor
+ 1697  sh demo/birds_demo.sh
+ 1698  pip install tensorflow
+ 1699  sh demo/birds_demo.sh
+ 1700  pip install scipy
+ 1701  sh demo/birds_demo.sh
+ 1702  pip install torchfile
+ 1703  sh demo/birds_demo.sh
+ 1704  pip install PIL
+ 1705  pip install Pillow
+ 1706  sh demo/birds_demo.sh
+ 1707  pip install easydict
+ 1708  sh demo/birds_demo.sh
+ 1709  history
+ 1710  pip install PyYAML
+ 1711  sh demo/birds_demo.sh
+ 1712  python misc/preprocess_birds.py 
+ 1713  pip install pandas
+ 1714  python misc/preprocess_birds.py 
+ 1715  sh demo/birds_demo.sh
+ 1716  cd Data/
+ 1717  ls
+ 1718  cd ..
+ 1719  python demo/birds_skip_thought_demo.py --cfg demo/cfg/birds-skip-thought-demo.yml --gpu 2
+ 1720  pip install theano
+ 1721  python demo/birds_skip_thought_demo.py --cfg demo/cfg/birds-skip-thought-demo.yml --gpu 2
+ 1722  pip install nltk
+ 1723  python demo/birds_skip_thought_demo.py --cfg demo/cfg/birds-skip-thought-demo.yml --gpu 2
+ 1724  source env/bin/activate
+ 1725  cd ..
+ 1726  git clone https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+ 1727  python3 -m venv env
+ 1728  cd pytorch-CycleGAN-and-pix2pix/
+ 1729  python3 -m venv env
+ 1730  source env/bin/activate
+ 1731  pip install -r requirements.txt 
+ 1732  bash ./scripts/download_cyclegan_model.sh horse2zebra
+ 1733  bash ./datasets/download_cyclegan_dataset.sh horse2zebra
+ 1734  python test.py --dataroot datasets/horse2zebra/testA --name horse2zebra_pretrained --model test --no_dropout --gpu_ids -1
+ 1735  cd python/StackGAN/
+ 1736  python test.py --dataroot datasets/horse2zebra/testA --name horse2zebra_pretrained --model test --no_dropout --gpu_ids -1
+ 1737  python demo/birds_skip_thought_demo.py --cfg demo/cfg/birds-skip-thought-demo.yml --gpu 2
+ 1738  source env/bin/activate
+ 1739  python demo/birds_skip_thought_demo.py --cfg demo/cfg/birds-skip-thought-demo.yml --gpu 2
+ 1740  wget http://www.cs.toronto.edu/~rkiros/models/uni_skip.npz.pkl
+ 1741  python demo/birds_skip_thought_demo.py --cfg demo/cfg/birds-skip-thought-demo.yml --gpu 2
+ 1742  cd Data/skipthoughts/
+ 1743  wget http://www.cs.toronto.edu/~rkiros/models/bi_skip.npz.pkl
+ 1744  cd ../..
+ 1745  python demo/birds_skip_thought_demo.py --cfg demo/cfg/birds-skip-thought-demo.yml --gpu 2
+ 1746  cd Data/skipthoughts/
+ 1747  wget http://www.cs.toronto.edu/~rkiros/models/uni_skip.npz
+ 1748  wget http://www.cs.toronto.edu/~rkiros/models/bi_skip.npz
+ 1749  wget http://www.cs.toronto.edu/~rkiros/models/dictionary.txt
+ 1750  wget http://www.cs.toronto.edu/~rkiros/models/utable.npy
+ 1751  wget http://www.cs.toronto.edu/~rkiros/models/btable.npy
+ 1752  cd ../../
+ 1753  python demo/birds_skip_thought_demo.py --cfg demo/cfg/birds-skip-thought-demo.yml --gpu 2
+ 1754  cd Data/skipthoughts/
+ 1755  wget http://www.cs.toronto.edu/~rkiros/models/btable.npy
+ 1756  wget http://www.cs.toronto.edu/~rkiros/models/utable.npy
+ 1757  wget http://www.cs.toronto.edu/~rkiros/models/btable.npy
+ 1758  wget http://www.cs.toronto.edu/~rkiros/models/utable.npy
+ 1759  python
+ 1760  python3
+ 1761  cd ../../..
+ 1762  cd AttnGAN/
+ 1763  ls
+ 1764  source env/bin/activate
+ 1765  python -m virtualenv env
+ 1766  source env/bin/activate
+ 1767  pip install python-dateutil
+ 1768  pip install easydict
+ 1769  pip install pandas
+ 1770  pip install torchfile
+ 1771  pip install nltk
+ 1772  pip install scikit-image
+ 1773  pip install pytorch
+ 1774  pip install torch torchvision
+ 1775  cd ../../..
+ 1776  ls
+ 1777  cd AttnGAN/
+ 1778  source env/bin/activate
+ 1779  pip install torch torchvision
+ 1780  python main.py --cfg cfg/eval_bird.yml --gpu 1
+ 1781  ls
+ 1782  cd code
+ 1783  python main.py --cfg cfg/eval_bird.yml --gpu 1
+ 1784  pip install PyYAML
+ 1785  python main.py --cfg cfg/eval_bird.yml --gpu 1
+ 1786  python main.py --cfg cfg/eval_bird.yml [B--gpu 0
+ 1787  python main.py --cfg cfg/eval_bird.yml --gpu -1
+ 1788  history | grep -r "gpu"
+ 1789  history
+ 1790  python main.py --cfg cfg/eval_bird.yml --gpu_ids -1
+ 1791  python main.py --cfg cfg/eval_bird.yml --gpu 1
+ 1792  python main.py --cfg cfg/eval_bird.yml
+ 1793  nvidia-detect
+ 1794  python main.py --cfg cfg/eval_bird.yml --gpu 1
+ 1795  python main.py --cfg cfg/eval_bird.yml --gpu -1
+ 1796  python main.py --cfg cfg/eval_bird.yml --gpu
+ 1797  python main.py --cfg cfg/eval_bird.yml
+ 1798  cd python/StackGAN/
+ 1799  source env/bin/activate
+ 1800  cd Data/skipthoughts/
+ 1801  wget http://www.cs.toronto.edu/~rkiros/models/utable.npy
+ 1802  cd ../..
+ 1803  python demo/birds_skip_thought_demo.py --cfg demo/cfg/birds-skip-thought-demo.yml --gpu 2
+ 1804  cd
+ 1805  nvidia-detect
+ 1806  sudo lshw -C display
+ 1807  pip install --manthan speedtest -cli
+ 1808  pip install --manthan speedtest-cli
+ 1809  pip install --user speedtest-cli
+ 1810  speedtest-cli
+ 1811  speedtest-cli -h
+ 1812  speedtest
+ 1813  speedtest -cli
+ 1814  cd /home/manthan/.local/bin/
+ 1815  speedtest-cli
+ 1816  ./configure --with-mysql=mysqlnd --with-mysqli=mysqlnd --with-pdo-mysql=mysqlnd ;
+ 1817  ./config --with-mysql=mysqlnd --with-mysqli=mysqlnd --with-pdo-mysql=mysqlnd ;
+ 1818  /home/manthan
+ 1819  /home/manthan/
+ 1820  cd /home/manthan/
+ 1821  ls
+ 1822  .config --with-mysql=mysqlnd --with-mysqli=mysqlnd --with-pdo-mysql=mysqlnd ;
+ 1823  cd
+ 1824  cd lex/
+ 1825  cd Count/
+ 1826  lex count.l 
+ 1827  ./a.out
+ 1828  gcc lex.yy.c 
+ 1829  ./a.out 
+ 1830  exit
+ 1831  cd Data/skipthoughts/
+ 1832  wget http://www.cs.toronto.edu/~rkiros/models/utable.npy
+ 1833  exit
+ 1834  cd python/StackGAN/
+ 1835  python demo/birds_skip_thought_demo.py --cfg demo/cfg/birds-skip-thought-demo.yml --gpu 2
+ 1836  source env/bin/activate
+ 1837  python demo/birds_skip_thought_demo.py --cfg demo/cfg/birds-skip-thought-demo.yml --gpu 2
+ 1838  pip install prettytensor==0.71
+ 1839  pip install prettytensor==0.7.1
+ 1840  python demo/birds_skip_thought_demo.py --cfg demo/cfg/birds-skip-thought-demo.yml --gpu 2
+ 1841  tensorflow --version
+ 1842  pip tensorflow --version
+ 1843  pip install tensorflow==0.12
+ 1844  python demo/birds_skip_thought_demo.py --cfg demo/cfg/birds-skip-thought-demo.yml --gpu 2
+ 1845  pip list
+ 1846  pip install Pillow
+ 1847  python demo/birds_skip_thought_demo.py --cfg demo/cfg/birds-skip-thought-demo.yml --gpu 2
+ 1848  exit
+ 1849  man memcpy
+ 1850  gedit try.c
+ 1851  gcc try.c
+ 1852  ./a.out
+ 1853  gcc try.c
+ 1854  ./a.out
+ 1855  exit
+ 1856  ./a.out
+ 1857  exit
+ 1858  config
+ 1859  help
+ 1860  cd python/StackGAN/
+ 1861  history
+ 1862  java -version
+ 1863  cd Netbeans/
+ 1864  cd apache-ant-1.9.14-bin/apache-ant-1.9.14/bin/
+ 1865  ./ant
+ 1866  cd ../../..
+ 1867  ./ant
+ 1868  cd incubating-netbeans-10.0-source/
+ 1869  cd apache-ant-1.9.14-bin/apache-ant-1.9.14/bin/
+ 1870  ./ant
+ 1871  cd ../../..
+ 1872  ./ant
+ 1873  cd apache-ant-1.9.14-bin/apache-ant-1.9.14/bin/
+ 1874  ./ant
+ 1875  ls
+ 1876  ./ant
+ 1877  cd
+ 1878  java
+ 1879  java -classpathh
+ 1880  java -classpath
+ 1881  java --info
+ 1882  java info
+ 1883  history
+ 1884  php -v
+ 1885  cd apache/apache-tomcat-8.5.24/apache-tomcat-8.5.24/bin/
+ 1886  ./startup.sh 
+ 1887  sudo apt-get update
+ 1888  mysql -u t3261 -p
+ 1889  history
+ 1890  cd
+ 1891  sudo apt install php7.0-mysql php7.0-curl php7.0-json php7.0-cgi php7.0 libapache2-mod-php7.0
+ 1892  sudo apt-get update
+ 1893  sudo apt-get install php7 libapache-mod-php7
+ 1894  cd /var
+ 1895  ls
+ 1896  var lib/
+ 1897  cd lib/
+ 1898  ls
+ 1899  cd apt/
+ 1900  ls
+ 1901  cd lists/
+ 1902  ls
+ 1903  php
+ 1904  dpkg -l php
+ 1905  dpkg -l php7.3.3
+ 1906  sudo apt install php7.3-cli php7.3-common php7.3-curl php7.3-gd php7.3-json php7.3-mbstring php7.3-mysql php7.3-xml
+ 1907  exit
+ 1908  php -S 0.0.0.0:8000
+ 1909  exit
+ 1910  pip3 install Flask
+ 1911  ssh pi@172.20.10.11
+ 1912  ifconfig
+ 1913  sudo arp-scan 192.168.43.0/24
+ 1914  ssh pi@192.168.43.29
+ 1915  sudo arp-scan 192.168.43.0/24
+ 1916  ssh pi@192.168.43.187
+ 1917  sudo arp-scan 192.168.43.0/24
+ 1918  ping 192.168.43.187
+ 1919  ssh pi@192.168.43.187
+ 1920  sudo arp-scan 192.168.43.0/24
+ 1921  ssh pi@192.168.43.187
+ 1922  cd
+ 1923  ssh pi@192.168.43.187
+ 1924  cd
+ 1925  ssh pi@192.168.43.187
+ 1926  cd
+ 1927  ssh pi@192.168.43.187
+ 1928  cd
+ 1929  cd DLL/
+ 1930  cd Calculator/
+ 1931  ./run
+ 1932  exit
+ 1933  cd
+ 1934  cd python/
+ 1935  python firebaseConnectivity.py 
+ 1936  exit
+ 1937  cd
+ 1938  mysql -u t3261 -p
+ 1939  exit
+ 1940  ssh pi@192.168.2.2
+ 1941  cd apache/apache-tomcat-8.5.24/apache-tomcat-8.5.24/bin/
+ 1942  ./startup.sh 
+ 1943  cd
+ 1944  sudo apt install arp-scan\
+ 1945  ifconfig
+ 1946  ipconfig
+ 1947  scp pi@192.168.43.187:/home/pi us.py 
+ 1948  scp pi@192.168.43.187:/home/pi/ us.py 
+ 1949  scp pi@192.168.43.187:/home/pi/us.py us.py 
+ 1950  scp pi@192.168.43.187:/home/pi/ ./us.py 
+ 1951  scp pi@192.168.43.187:/home/pi/us.py ./us.py 
+ 1952  ssh pi@192.168.43.187
+ 1953  [Bsudo apt-get install php7 libapache-mod-php7
+ 1954  ssh pi@192.168.43.187
+ 1955  exit
+ 1956  history
+ 1957  sudo arp-scan 192.168.43.0/24
+ 1958  ssh pi@192.168.43.187
+ 1959  sudo apt-get install curl software-properties-common
+ 1960  curl -sL https://deb.nodesource.com/setup_11.x | sudo bash -
+ 1961  history
+ 1962  curl -sL https://deb.nodesource.com/setup_11.x | sudo bash -
+ 1963  sudo apt-get install curl software-properties-common
+ 1964  sudo apt-get install nodejs
+ 1965  node -v
+ 1966  npm -v
+ 1967  npm install -g firebase-tools 
+ 1968  sudo npm install -g firebase-tools 
+ 1969  firebase login
+ 1970  firebase use --add
+ 1971  firebase serve
+ 1972  firebase init
+ 1973  firebase serve
+ 1974  npm install firebase --save
+ 1975  ls
+ 1976  firebase serve
+ 1977  ssh pi@192.168.43.187
+ 1978  cd apache/apache-tomcat-8.5.24/apache-tomcat-8.5.24/bin/
+ 1979  ./startup.sh
+ 1980  cd
+ 1981  cd python/
+ 1982  cd flask/
+ 1983  mkdir -p movie_bot && cd movie_bot && mkdir templates static
+ 1984  mkdir -p IoT_Garbage_Monitor && cd IoT_Garbage_Montior && mkdir templates static
+ 1985  cd
+ 1986  cd python/flask/
+ 1987  mkdir -p IoT_Garbage_Monitor && cd IoT_Garbage_Montior && mkdir templates static
+ 1988  mkdir IoT_Garbage_Monitor
+ 1989  mkdir -p IoT_Garbage_Monitor && cd IoT_Garbage_Monitor && mkdir templates static
+ 1990  touch index.py static/{custom.js,style.css} templates/index.html requirements.txt .flaskenv .env
+ 1991  python3 -m venv env
+ 1992  source env/bin/activate
+ 1993  pip install -r requirements.txt 
+ 1994  flask run
+ 1995  pip3 install python-firebase
+ 1996  python3
+ 1997  pip install python-firebase
+ 1998  python
+ 1999  ./script
+ 2000  which ksh
+ 2001  gedit script
+ 2002  ./script
+ 2003  ./run
+ 2004  history
+]0;manthan@manthan: ~/DLL/Calculator[01;32mmanthan@manthan[00m:[01;34m~/DLL/Calculator[00m$ exit
+exit
+There are stopped jobs.
+]0;manthan@manthan: ~/DLL/Calculator[01;32mmanthan@manthan[00m:[01;34m~/DLL/Calculator[00m$ exit
+exit
+
+Script done on 2019-04-05 19:53:07+05:30 [COMMAND_EXIT_CODE="1"]

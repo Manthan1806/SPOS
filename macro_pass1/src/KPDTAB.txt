@@ -1,0 +1,6 @@
+1 A AREG
+2 B ----
+3 A AREG
+4 B ----
+5 A AREG
+6 B ----

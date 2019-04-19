@@ -1,0 +1,7 @@
+MACRO
+M1 &x, &y, &A=AREG, &B=
+MOVER &A,&x
+ADD &A,='1'
+MOVER &B,&y
+ADD &A,='5'
+MEND
